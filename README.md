@@ -1,6 +1,6 @@
 ## NodeJS Zsh Theme
 
-![](https://github.com/fsrocha-dev/node-zsh-theme/blob/main/screenshot.png)
+![](https://github.com/fsrocha-dev/node-zsh-theme/blob/main/screenshot-v2.png)
 
 <br>
 

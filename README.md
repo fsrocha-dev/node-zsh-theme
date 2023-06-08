@@ -17,3 +17,7 @@
 ## Maintainers
 
 - [Frank Rocha](https://github.com/fsrocha-dev)
+
+## Inspired By
+
+- [Eugene Skuridin](https://github.com/skuridin)
